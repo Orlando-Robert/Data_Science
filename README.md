@@ -20,7 +20,7 @@ I am a student of Electrical Engeneering at FMU and I am also studying programmi
 
 ## Projetos:
 
-* Análise de dados do Airbnb (Toronto) - 
+* Análise de dados do Airbnb (Toronto) - (https://bityli.com/0BkYM)
 
 
 ---
