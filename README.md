@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-orlando-red.svg)](https://www.linkedin.com/in/orlando-robert)
+[![author](https://img.shields.io/badge/author-Orlando-red.svg)](https://www.linkedin.com/in/orlando-robert)
 [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
 
 <p align="center">
