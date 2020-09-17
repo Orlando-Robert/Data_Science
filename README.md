@@ -20,8 +20,8 @@ I am a student of Electrical Engeneering at FMU and I am also studying programmi
 
 ## Projetos:
 
-* **Análise de dados - Airbnb (Toronto):** [bit.ly/33BJJbl](bit.ly/33BJJbl)
-* **Análise de dados - Violência no RJ:** [bit.ly/3c4h5nf](bit.ly/3c4h5nf)
+* **Análise de dados - Airbnb (Toronto):** [bit.ly/33BJJbl](https://bit.ly/33BJJbl)
+* **Análise de dados - Violência no RJ:** [bit.ly/3c4h5nf](https://bit.ly/3c4h5nf)
 
 ---
 
